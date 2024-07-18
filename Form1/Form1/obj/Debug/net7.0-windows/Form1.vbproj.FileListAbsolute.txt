@@ -1,0 +1,72 @@
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\Form1.exe
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\Form1.deps.json
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\Form1.runtimeconfig.json
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\Form1.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\Form1.pdb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.Form1.resources
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.GenerateResource.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.AssemblyInfo.vb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.CopyComplete
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\refint\Form1.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.pdb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\Form1.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\Form1\Form1\obj\Debug\net7.0-windows\ref\Form1.dll
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\Form1.exe
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\Form1.deps.json
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\Form1.runtimeconfig.json
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\Form1.dll
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\Form1.pdb
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jc_it\Desktop\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.AssemblyReference.cache
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.Form1.resources
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.GenerateResource.cache
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.AssemblyInfoInputs.cache
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.AssemblyInfo.vb
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.CoreCompileInputs.cache
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.CopyComplete
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.dll
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\refint\Form1.dll
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.pdb
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\Form1.genruntimeconfig.cache
+C:\Users\jc_it\Desktop\Form1\Form1\obj\Debug\net7.0-windows\ref\Form1.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\Form1.exe
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\Form1.deps.json
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\Form1.runtimeconfig.json
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\Form1.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\Form1.pdb
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.AssemblyReference.cache
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.Form1.resources
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.GenerateResource.cache
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.AssemblyInfoInputs.cache
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.AssemblyInfo.vb
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.CoreCompileInputs.cache
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.vbproj.Up2Date
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\refint\Form1.dll
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.pdb
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\Form1.genruntimeconfig.cache
+D:\Joe_files\VB Projects 2022\VB 2022 EmailHandlerTest\Form1\Form1\obj\Debug\net7.0-windows\ref\Form1.dll

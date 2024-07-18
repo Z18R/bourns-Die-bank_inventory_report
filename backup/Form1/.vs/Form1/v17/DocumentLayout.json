@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Joe_files\\VB Projects 2022\\VB 2022 EmailHandlerTest\\Form1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4C2FA2-6ADE-4E21-9C3D-388CB4A41F7A}|Form1\\Form1.vbproj|d:\\joe_files\\vb projects 2022\\vb 2022 emailhandlertest\\form1\\form1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4C2FA2-6ADE-4E21-9C3D-388CB4A41F7A}|Form1\\Form1.vbproj|solutionrelative:form1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4C2FA2-6ADE-4E21-9C3D-388CB4A41F7A}|Form1\\Form1.vbproj|d:\\joe_files\\vb projects 2022\\vb 2022 emailhandlertest\\form1\\form1\\emailhandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4C2FA2-6ADE-4E21-9C3D-388CB4A41F7A}|Form1\\Form1.vbproj|solutionrelative:form1\\emailhandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4C2FA2-6ADE-4E21-9C3D-388CB4A41F7A}|Form1\\Form1.vbproj|d:\\joe_files\\vb projects 2022\\vb 2022 emailhandlertest\\form1\\form1\\sqlhandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4C2FA2-6ADE-4E21-9C3D-388CB4A41F7A}|Form1\\Form1.vbproj|solutionrelative:form1\\sqlhandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Joe_files\\VB Projects 2022\\VB 2022 EmailHandlerTest\\Form1\\Form1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1\\Form1.vb",
+              "ToolTip": "D:\\Joe_files\\VB Projects 2022\\VB 2022 EmailHandlerTest\\Form1\\Form1\\Form1.vb",
+              "RelativeToolTip": "Form1\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T05:39:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailHandler.vb",
+              "DocumentMoniker": "D:\\Joe_files\\VB Projects 2022\\VB 2022 EmailHandlerTest\\Form1\\Form1\\EmailHandler.vb",
+              "RelativeDocumentMoniker": "Form1\\EmailHandler.vb",
+              "ToolTip": "D:\\Joe_files\\VB Projects 2022\\VB 2022 EmailHandlerTest\\Form1\\Form1\\EmailHandler.vb",
+              "RelativeToolTip": "Form1\\EmailHandler.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T05:39:28.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlHandler.vb",
+              "DocumentMoniker": "D:\\Joe_files\\VB Projects 2022\\VB 2022 EmailHandlerTest\\Form1\\Form1\\SqlHandler.vb",
+              "RelativeDocumentMoniker": "Form1\\SqlHandler.vb",
+              "ToolTip": "D:\\Joe_files\\VB Projects 2022\\VB 2022 EmailHandlerTest\\Form1\\Form1\\SqlHandler.vb",
+              "RelativeToolTip": "Form1\\SqlHandler.vb",
+              "ViewState": "AQIAADwAAAAAAAAAAAD4vxwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T05:39:28.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
